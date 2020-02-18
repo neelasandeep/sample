@@ -1,0 +1,502 @@
+[main] INFO  utils.ConfigDataprovider  - {
+    "City": "Hyderabad",
+    "Temperature": "23.11 Degree celsius",
+    "Humidity": "73 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "1.5 Km per hour",
+    "WindDirectionDegree": " Degree"
+}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "SuccessCode": "OPERATION_SUCCESS",
+    "Message": "Operation completed successfully"
+}
+[main] INFO  utils.ConfigDataprovider  - 201
+[main] INFO  utils.ConfigDataprovider  - OPERATION_SUCCESS
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "User already exists",
+    "fault": "FAULT_USER_ALREADY_EXISTS"
+}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "User already exists",
+    "fault": "FAULT_USER_ALREADY_EXISTS"
+}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "User already exists",
+    "fault": "FAULT_USER_ALREADY_EXISTS"
+}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "User already exists",
+    "fault": "FAULT_USER_ALREADY_EXISTS"
+}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "SuccessCode": "OPERATION_SUCCESS",
+    "Message": "Operation completed successfully"
+}
+[main] INFO  utils.ConfigDataprovider  - 201
+[main] INFO  utils.ConfigDataprovider  - OPERATION_SUCCESS
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid post data, please correct the request",
+    "fault": "FAULT_INVALID_POST_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 400
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "User already exists",
+    "fault": "FAULT_USER_ALREADY_EXISTS"
+}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "User already exists",
+    "fault": "FAULT_USER_ALREADY_EXISTS"
+}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "SuccessCode": "OPERATION_SUCCESS",
+    "Message": "Operation completed successfully"
+}
+[main] INFO  utils.ConfigDataprovider  - 201
+[main] INFO  utils.ConfigDataprovider  - OPERATION_SUCCESS
+[main] INFO  utils.ConfigDataprovider  - <?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>REQUEST_DENIED</status>
+ <error_message>The provided API key is invalid.</error_message>
+</PlaceSearchResponse>
+
+[main] INFO  utils.ConfigDataprovider  - Content-Type --> application/xml; charset=UTF-8
+[main] INFO  utils.ConfigDataprovider  - Date --> Sat, 07 Dec 2019 17:13:55 GMT
+[main] INFO  utils.ConfigDataprovider  - Pragma --> no-cache
+[main] INFO  utils.ConfigDataprovider  - Expires --> Fri, 01 Jan 1990 00:00:00 GMT
+[main] INFO  utils.ConfigDataprovider  - Cache-Control --> no-cache, must-revalidate
+[main] INFO  utils.ConfigDataprovider  - Vary --> Accept-Language
+[main] INFO  utils.ConfigDataprovider  - Content-Encoding --> gzip
+[main] INFO  utils.ConfigDataprovider  - Server --> scaffolding on HTTPServer2
+[main] INFO  utils.ConfigDataprovider  - X-XSS-Protection --> 0
+[main] INFO  utils.ConfigDataprovider  - X-Frame-Options --> SAMEORIGIN
+[main] INFO  utils.ConfigDataprovider  - Server-Timing --> gfet4t7; dur=211
+[main] INFO  utils.ConfigDataprovider  - Alt-Svc --> quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000
+[main] INFO  utils.ConfigDataprovider  - Transfer-Encoding --> chunked
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {
+    "City": "Hyderabad",
+    "Temperature": "21.12 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "mist",
+    "WindSpeed": "1.5 Km per hour",
+    "WindDirectionDegree": "120 Degree"
+}
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {
+    "City": "Hyderabad",
+    "Temperature": "21.12 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "mist",
+    "WindSpeed": "1.5 Km per hour",
+    "WindDirectionDegree": "120 Degree"
+}
+[main] INFO  utils.ConfigDataprovider  - Hyderabad
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"name":"afda","salary":"78987","age":"45","id":"117071"}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_name' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_name' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_name' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_salary' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"name":"SAN12777777777777777777","salary":"345564","age":"25","id":"117462"}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"name":"SAN1255","salary":"35353","age":"46","id":"117463"}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"name":"SAN456","salary":"546754","age":"37","id":"117465"}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"name":"SAN446","salary":"46456","age":"38","id":"117466"}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"name":"SAN366","salary":"34566","age":"44","id":"117467"}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'SAN12777777777777777777' for key 'employee_name_unique'}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'SAN1255' for key 'employee_name_unique'}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'SAN456' for key 'employee_name_unique'}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'SAN446' for key 'employee_name_unique'}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'SAN366' for key 'employee_name_unique'}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {
+    "City": "Hyderabad",
+    "Temperature": "24.28 Degree celsius",
+    "Humidity": "65 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "3.1 Km per hour",
+    "WindDirectionDegree": "110 Degree"
+}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_name' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_name' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {
+    "City": "Hyderabad",
+    "Temperature": "25.12 Degree celsius",
+    "Humidity": "65 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "1.5 Km per hour",
+    "WindDirectionDegree": "90 Degree"
+}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"name":"SAN12777787777777777777","salary":"345564","age":"25","id":"255870"}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"name":"SAN12556","salary":"35353","age":"46","id":"255872"}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"name":"SAN4566","salary":"546754","age":"37","id":"255874"}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"name":"SAN44699","salary":"46456","age":"38","id":"255876"}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"name":"SAN366","salary":"34566","age":"44","id":"255879"}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_name' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid method type found in Request.",
+    "fault": "FAULT_INVALID_METHOD_TYPE_IN_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 405
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "Invalid method type found in Request.",
+    "fault": "FAULT_INVALID_METHOD_TYPE_IN_REQUEST"
+}
+[main] INFO  utils.ConfigDataprovider  - 405
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'employee_name' cannot be null}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {
+    "SuccessCode": "OPERATION_SUCCESS",
+    "Message": "Operation completed successfully"
+}
+[main] INFO  utils.ConfigDataprovider  - 201
+[main] INFO  utils.ConfigDataprovider  - OPERATION_SUCCESS
+[main] INFO  utils.ConfigDataprovider  - {
+    "City": "Hyderabad",
+    "Temperature": "24.13 Degree celsius",
+    "Humidity": "53 Percent",
+    "WeatherDescription": "overcast clouds",
+    "WindSpeed": "1 Km per hour",
+    "WindDirectionDegree": "50 Degree"
+}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - <?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>REQUEST_DENIED</status>
+ <error_message>The provided API key is invalid.</error_message>
+</PlaceSearchResponse>
+
+[main] INFO  utils.ConfigDataprovider  - Content-Type --> application/xml; charset=UTF-8
+[main] INFO  utils.ConfigDataprovider  - Date --> Tue, 18 Feb 2020 16:48:19 GMT
+[main] INFO  utils.ConfigDataprovider  - Pragma --> no-cache
+[main] INFO  utils.ConfigDataprovider  - Expires --> Fri, 01 Jan 1990 00:00:00 GMT
+[main] INFO  utils.ConfigDataprovider  - Cache-Control --> no-cache, must-revalidate
+[main] INFO  utils.ConfigDataprovider  - Vary --> Accept-Language
+[main] INFO  utils.ConfigDataprovider  - Content-Encoding --> gzip
+[main] INFO  utils.ConfigDataprovider  - Server --> scaffolding on HTTPServer2
+[main] INFO  utils.ConfigDataprovider  - X-XSS-Protection --> 0
+[main] INFO  utils.ConfigDataprovider  - X-Frame-Options --> SAMEORIGIN
+[main] INFO  utils.ConfigDataprovider  - Server-Timing --> gfet4t7; dur=208
+[main] INFO  utils.ConfigDataprovider  - Alt-Svc --> quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000
+[main] INFO  utils.ConfigDataprovider  - Transfer-Encoding --> chunked
+[main] INFO  utils.ConfigDataprovider  - 200

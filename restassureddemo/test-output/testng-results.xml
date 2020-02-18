@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3578" started-at="2020-02-18T22:34:05 IST" finished-at="2020-02-18T22:34:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3578" started-at="2020-02-18T22:34:05 IST" finished-at="2020-02-18T22:34:09 IST">
+      <class name="restassureddemo.SynntaxExplanation">
+        <test-method status="PASS" signature="equalmethod()[pri:0, instance:restassureddemo.SynntaxExplanation@4b4523f8]" name="equalmethod" duration-ms="3524" started-at="2020-02-18T22:34:06 IST" finished-at="2020-02-18T22:34:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- equalmethod -->
+      </class> <!-- restassureddemo.SynntaxExplanation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
