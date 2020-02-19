@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-02-18T22:18:17 IST" name="Default suite" finished-at="2020-02-18T22:18:19 IST" duration-ms="2633">
+  <suite name="Default suite" duration-ms="2235" started-at="2020-02-19T16:21:58 IST" finished-at="2020-02-19T16:22:00 IST">
     <groups>
     </groups>
-    <test started-at="2020-02-18T22:18:17 IST" name="Default test" finished-at="2020-02-18T22:18:19 IST" duration-ms="2633">
-      <class name="tests.TC003_GET_Header">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.TC003_GET_Header@1356d4d4]" started-at="2020-02-18T22:18:17 IST" name="setUp" finished-at="2020-02-18T22:18:17 IST" duration-ms="101" status="PASS">
+    <test name="Default test" duration-ms="2235" started-at="2020-02-19T16:21:58 IST" finished-at="2020-02-19T16:22:00 IST">
+      <class name="tests.TC005_Auth">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TC005_Auth@3b084709]" name="setUp" is-config="true" duration-ms="60" started-at="2020-02-19T16:21:58 IST" finished-at="2020-02-19T16:21:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="get()[pri:0, instance:tests.TC003_GET_Header@1356d4d4]" started-at="2020-02-18T22:18:17 IST" name="get" finished-at="2020-02-18T22:18:19 IST" duration-ms="2491" status="PASS">
+        <test-method status="PASS" signature="useDigestAuthentication()[pri:0, instance:tests.TC005_Auth@3b084709]" name="useDigestAuthentication" duration-ms="2146" started-at="2020-02-19T16:21:58 IST" finished-at="2020-02-19T16:22:00 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- get -->
-      </class> <!-- tests.TC003_GET_Header -->
+        </test-method> <!-- useDigestAuthentication -->
+      </class> <!-- tests.TC005_Auth -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -1,6 +1,10 @@
 package pojo;
 
 public class PojoData {
+@Override
+	public String toString() {
+		return "PojoData [name=" + name + ", salary=" + salary + ", age=" + age + "]";
+	}
 private  String name;
 private String salary;
 private String age;

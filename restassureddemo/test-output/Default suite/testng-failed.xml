@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="restassureddemo.SynntaxExplanation">
+      <class name="restassureddemo.Validations">
         <methods>
-          <include name="hasItems"/>
+          <include name="unitresult"/>
         </methods>
-      </class> <!-- restassureddemo.SynntaxExplanation -->
+      </class> <!-- restassureddemo.Validations -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

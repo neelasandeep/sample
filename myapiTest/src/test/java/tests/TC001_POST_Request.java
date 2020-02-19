@@ -35,11 +35,11 @@ public class TC001_POST_Request {
 		RequestSpecification httpRequest=RestAssured.given();
 		JSONObject requestParams=new JSONObject();
 		
-		requestParams.put("LastName", "Nwe4ela");
-		requestParams.put("UserName", "Nee46eigelaSandeep");
-		requestParams.put("Password", "Neel4a123");
-		requestParams.put("FirstName","Swan4deep" );
-		requestParams.put("Email", "neeela14423@gmail.com");
+		requestParams.put("LastName", "Nwe4aeola");
+		requestParams.put("UserName", "Nee46eigaeilaSandeep");
+		requestParams.put("Password", "Neegl4a123");
+		requestParams.put("FirstName","Swan4deeep" );
+		requestParams.put("Email", "neeela1s4423s@gmail.com");
 		httpRequest.header("Content-Type", "application/json");
 		System.out.println(requestParams.toJSONString());
 		httpRequest.body(requestParams.toJSONString());

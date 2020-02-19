@@ -500,3 +500,66 @@
 [main] INFO  utils.ConfigDataprovider  - Alt-Svc --> quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000
 [main] INFO  utils.ConfigDataprovider  - Transfer-Encoding --> chunked
 [main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "User already exists",
+    "fault": "FAULT_USER_ALREADY_EXISTS"
+}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "FaultId": "User already exists",
+    "fault": "FAULT_USER_ALREADY_EXISTS"
+}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "SuccessCode": "OPERATION_SUCCESS",
+    "Message": "Operation completed successfully"
+}
+[main] INFO  utils.ConfigDataprovider  - 201
+[main] INFO  utils.ConfigDataprovider  - OPERATION_SUCCESS
+[main] INFO  utils.ConfigDataprovider  - {"status":"success","data":{"name":"afda","salary":"78987","age":"45","id":55}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {"status":"success","data":{"name":"afda","salary":"78987","age":"45","id":76}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {
+    "City": "Hyderabad",
+    "Temperature": "31.91 Degree celsius",
+    "Humidity": "38 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "2.1 Km per hour",
+    "WindDirectionDegree": " Degree"
+}
+[main] INFO  utils.ConfigDataprovider  - Hyderabad
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - <?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>REQUEST_DENIED</status>
+ <error_message>The provided API key is invalid.</error_message>
+</PlaceSearchResponse>
+
+[main] INFO  utils.ConfigDataprovider  - Content-Type --> application/xml; charset=UTF-8
+[main] INFO  utils.ConfigDataprovider  - Date --> Wed, 19 Feb 2020 09:31:27 GMT
+[main] INFO  utils.ConfigDataprovider  - Pragma --> no-cache
+[main] INFO  utils.ConfigDataprovider  - Expires --> Fri, 01 Jan 1990 00:00:00 GMT
+[main] INFO  utils.ConfigDataprovider  - Cache-Control --> no-cache, must-revalidate
+[main] INFO  utils.ConfigDataprovider  - Vary --> Accept-Language
+[main] INFO  utils.ConfigDataprovider  - Content-Encoding --> gzip
+[main] INFO  utils.ConfigDataprovider  - Server --> scaffolding on HTTPServer2
+[main] INFO  utils.ConfigDataprovider  - X-XSS-Protection --> 0
+[main] INFO  utils.ConfigDataprovider  - X-Frame-Options --> SAMEORIGIN
+[main] INFO  utils.ConfigDataprovider  - Server-Timing --> gfet4t7; dur=13
+[main] INFO  utils.ConfigDataprovider  - Alt-Svc --> quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000
+[main] INFO  utils.ConfigDataprovider  - Transfer-Encoding --> chunked
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - {"status":"success","data":{"name":"afda","salary":"78987","age":"45","id":95}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {"status":"success","data":{"name":"afda","salary":"78987","age":"45","id":71}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 
+[main] INFO  utils.ConfigDataprovider  - {"status":"success","data":{"name":"afda","salary":"78987","age":"45","id":57}}
+[main] INFO  utils.ConfigDataprovider  - 200
+[main] INFO  utils.ConfigDataprovider  - 

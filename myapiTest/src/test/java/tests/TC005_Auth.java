@@ -1,5 +1,7 @@
 package tests;
 
+import static io.restassured.RestAssured.given;
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.testng.annotations.BeforeClass;
@@ -34,5 +36,62 @@ public class TC005_Auth {
 	String responseBody=responce.asString();
 	logger.info(responseBody);
 	logger.info(responce.getStatusCode());
+  }
+  
+  //wether server ask or dont but we will send credentials
+  @Test
+  public void usepreemptiveBasicAuthentication() {
+
+      given().
+          auth().
+          preemptive().
+          basic("ToolsQA", "TestPassword").
+      when().
+          get(config.getDataFromConfig("auth")).
+      then().
+          assertThat().
+          statusCode(200);
+  }
+  
+  //directly hit server and if serveer ask credentials then it will send credentials
+  @Test
+  public void useBasicAuthentication() {
+
+      given().
+          auth().
+         
+          basic("ToolsQA", "TestPassword").
+      when().
+          get(config.getDataFromConfig("auth")).
+      then().
+          assertThat().
+          statusCode(200);
+  }
+  
+  //more secure because here Digestive key is involved
+  @Test
+  public void useDigestAuthentication() {
+
+      given().
+          auth().
+         
+          digest("ToolsQA", "TestPassword").
+      when().
+          get(config.getDataFromConfig("auth")).
+      then().
+          assertThat().
+          statusCode(200);
+  }
+  @Test
+  public void useOAuthAuthentication() {
+
+      given().
+          auth().
+          oauth2("myAuthenticationToken").
+      when().
+          get("https://my.very.secure/api").
+      then().
+          assertThat().
+          statusCode(200);
   }
 }

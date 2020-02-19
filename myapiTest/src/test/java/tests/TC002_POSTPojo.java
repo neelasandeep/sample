@@ -8,6 +8,8 @@ import org.testng.annotations.Test;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import static io.restassured.RestAssured.given;
+
 
 import io.restassured.RestAssured;
 import io.restassured.http.Method;
@@ -49,6 +51,25 @@ public class TC002_POSTPojo {
 		logger.info(responce.getStatusCode());
 		logger.info(responce.jsonPath().get("SuccessCode"));
 
+	}
+	@Test
+	public void bddpost() {
+		given()
+		.contentType("text/html")
+		.body(user).
+		when().
+		post(config.getDataFromConfig("postpath")).
+		then()
+		.statusCode(200);
+	}
+	@Test
+	public void deserializationbdd() {
+		PojoData userdata=given().
+				when().
+				get("http://dummy.restapiexample.com/api/v1/employee/22").as(PojoData.class)
+				;
+		logger.info(userdata);
+				
 	}
 
 	public PojoData createDummyUser() {
